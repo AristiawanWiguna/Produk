@@ -1,0 +1,31 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ProdukController;
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::get('/produk', [ProdukController::class, 'index']);
+
+//tambah
+Route::get('/produk/tambah', [ProdukController::class, 'tambah']);
+Route::post('/produk/store', [ProdukController::class, 'store']);
+
+//edit
+Route::get('/produk/edit/{nama_produk}',[ProdukController::class,'edit']);
+Route::put('/produk/update/', [ProdukController::class, 'update']);
+
+//Hapus
+Route::get('/produk/hapus/{nama}',[ProdukController::class, 'hapus']);
