@@ -1,20 +1,9 @@
-<p>Tampilan Produk</p>
-<img src="screenshoot/TampilanAwal.png">
-
-<p>Tampilan Input Produk</p>
-<img src="screenshoot/Input.png">
-
-<p>Tampilan Setelah Input Produk</p>
-<img src="screenshoot/SetelahInput.png">
-
-<p>Tampilan Edit Produk</p>
-<img src="screenshoot/edit.png">
-
-<p>Tampilan Setelah Edit Produk</p>
-<img src="screenshoot/SetelahEdit.png">
-
-<p>Tampilan Setelah Hapus Produk</p>
-<img src="screenshoot/SetelahHapus.png">
+<img width="900" alt="edit" src="https://user-images.githubusercontent.com/48750172/119691986-3a177900-be75-11eb-8f01-e290bc4703ee.PNG">
+<img width="874" alt="Input" src="https://user-images.githubusercontent.com/48750172/119691994-3be13c80-be75-11eb-88c1-39130cd9c66b.PNG">
+<img width="902" alt="SetelahEdit" src="https://user-images.githubusercontent.com/48750172/119691999-3c79d300-be75-11eb-8870-669a46441a63.PNG">
+<img width="902" alt="SetelahHapus" src="https://user-images.githubusercontent.com/48750172/119692001-3d126980-be75-11eb-9aa3-da27e308ce8d.PNG">
+<img width="887" alt="SetelahInput" src="https://user-images.githubusercontent.com/48750172/119692007-3dab0000-be75-11eb-91a2-89f27250d3df.PNG">
+<img width="905" alt="TampilanProduk" src="https://user-images.githubusercontent.com/48750172/119692009-3e439680-be75-11eb-8ffb-785b88942ed8.PNG">
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
