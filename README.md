@@ -1,3 +1,21 @@
+<p>Tampilan Produk</p>
+<img src="screenshoot/TampilanAwal.png">
+
+<p>Tampilan Input Produk</p>
+<img src="screenshoot/Input.png">
+
+<p>Tampilan Setelah Input Produk</p>
+<img src="screenshoot/SetelahInput.png">
+
+<p>Tampilan Edit Produk</p>
+<img src="screenshoot/edit.png">
+
+<p>Tampilan Setelah Edit Produk</p>
+<img src="screenshoot/SetelahEdit.png">
+
+<p>Tampilan Setelah Hapus Produk</p>
+<img src="screenshoot/SetelahHapus.png">
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
